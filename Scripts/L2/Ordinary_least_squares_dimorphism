@@ -1,0 +1,3 @@
+Code made to calculate the OLS regression regarding the sexes (m/f) in the selected species, followed by a ANCOVA to compare the slopes and intercepts between
+males and femals of the same species.
+An ANOVA will be used to compare species between one another.
