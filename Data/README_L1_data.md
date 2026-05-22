@@ -1,13 +1,13 @@
 ##volumetric analysis  
-ob_vol  
-tel_vol  
-mes_vol  
-dien_vol  
-cer_vol  
-med_vol  
-ob_alo  
-tel_alo  
-mes_alo  
-dien_alo  
-cer_alo  
-med_alo  
+ob_vol - olfatory bulb volume  
+tel_vol - telencephalon volume  
+mes_vol - mesencephalon volume  
+dien_vol - diencephalon volume  
+cer_vol - cerebellum volume  
+med_vol - medulla oblongata volume  
+ob_alo - olfatory bulb alometry  
+tel_alo - telencephalon alometry  
+mes_alo - mesencephalon alometry  
+dien_alo - diencephalon alometry  
+cer_alo - cerebellum alometry  
+med_alo - medulla oblongata alometry  
